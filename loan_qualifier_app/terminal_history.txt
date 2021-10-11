@@ -1,0 +1,794 @@
+   50  conda activate dev
+   51  jupyter lab
+   52  conda deactivate
+   53  source /Users/tgmyers/opt/anaconda3/bin/activate
+   54  conda activate base
+   55  source /Users/tgmyers/opt/anaconda3/bin/activate
+   56  conda activate base
+   57  ls -al ~/.ssh
+   58  ssh-keygen -t rsa -b 4096 -C tylergusmyers@gmail.com
+   59  eval "$(ssh-agent -s)"
+   60  ssh-add ~/.ssh/id_rsa
+   61  pbcopy < ~/.ssh/id_rsa.pub
+   62  ssh -Tgit@github.com
+   63  ssh -T git@github.com
+   64  python3 --version
+   65  pwd
+   66  ls
+   67  cd
+   68  cd Desktop
+   69  pwd
+   70  ls
+   71  mkdir FinTech_Workspace
+   72  ls
+   73  cd FinTech_Workspace
+   74  ls
+   75  cd ..
+   76  cd -
+   77  cd ~
+   78  cd Desktop/
+   79  ls
+   80  ls
+   81  cd FinTech_Workspace
+   82  ls
+   83  cd Python_Project
+   84  conda activate dev
+   85  python --version
+   86  code .
+   87  code . 
+   88  code .
+   89  code .
+   90  code .
+   91  code .
+   92  pyhton hello_python.py
+   93  python hello_python.py
+   94  conda deactivate
+   95  cd
+   96  ls
+   97  cd Desktop
+   98  ls
+   99  cdFinTech_Workspace
+  100  cd Fintech_Workspace
+  101  ls
+  102  cd Python_Project
+  103  ls
+  104  cd Lesson3
+  105  conda activate dev
+  106  python Lesson3
+  107  python Lesson3
+  108  python Lesson3
+  109  code .
+  110  ls
+  111  python Lesson3.py
+  112  python Lesson3.py
+  113  python Lesson3.py
+  114  python Lesson3.py
+  115  python Lesson3.py
+  116  source /Users/tgmyers/opt/anaconda3/bin/activate
+  117  conda activate base
+  118  cd
+  119  ls
+  120  cd desktop
+  121  ls
+  122  cd FinTech_Workspace
+  123  ls
+  124  cd Python_Project
+  125  la
+  126  ls
+  127  python Lesson3.py
+  128  python Lesson3.py
+  129  conda activate dev
+  130  conda deactivate dev
+  131  conda deactivate dev
+  132  conda deactivate
+  133  source /Users/tgmyers/opt/anaconda3/bin/activate
+  134  conda activate base
+  135  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  136  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  137  conda activate dev
+  138  conda deactivate dev
+  139  conda deactivate
+  140  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  141  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  142  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  143  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  144  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  145  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  146  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  147  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  148  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  149  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  150  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  151  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  152  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  153  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  154  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  155  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  156  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  157  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/Lesson3.py
+  158  source /Users/tgmyers/opt/anaconda3/bin/activate
+  159  conda activate base
+  160  conda deactivate
+  161  source /Users/tgmyers/opt/anaconda3/bin/activate
+  162  conda activate base
+  163  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  164  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  165  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  166  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  167  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  168  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  169  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  170  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  171  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  172  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  173  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  174  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  175  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  176  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  177  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  178  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  179  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  180  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  181  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/FinTech_Workspace/Python_Project/hello_python.py
+  182  python --version
+  183  activate conda dev
+  184  conda activate dev
+  185  python --version
+  186  conda deactivate
+  187  python3 --version
+  188  pwd
+  189  python variables.py
+  190  cd
+  191  ls
+  192  cd Desktop
+  193  ls
+  194  cd 1
+  195  ls
+  196  cd Activities
+  197  ls
+  198  ls 01_Ins_Variables
+  199  cd Solved
+  200  ls
+  201  python solved.py
+  202  conda activate dev
+  203  cd
+  204  ls
+  205  cd Desktop/Activies
+  206  cd Desktop
+  207  ls
+  208  cd 1
+  209  ls
+  210  cd Activities
+  211  ls
+  212  cd 01_Ins_Variables
+  213  ls
+  214  cd Solved
+  215  ls
+  216  python varibables.py
+  217  python variables.py
+  218  /Users/tgmyers/Desktop/1/Activities/01_Ins_Variables/Solved
+  219  cd
+  220  ls
+  221  cd Desktop/1/Activities
+  222  ls
+  223  cd 01_Ins_Variables/Solved
+  224  cd
+  225  ls
+  226  cd Desktop/1/Activities
+  227  ls
+  228  ls
+  229  02_Stu_percent_Increase
+  230  cd 02_Stu_percent_Increase
+  231  la
+  232  ls
+  233  cd Unsolved
+  234  ls
+  235  python percent_increase.py
+  236  conda activate dev
+  237  cd
+  238  ls
+  239  cdDesktop
+  240  ..
+  241  ls
+  242  cd ..
+  243  ls
+  244  cd Desktop
+  245  ..
+  246  cd ..
+  247  ls
+  248  cd Applicaations/Desktop
+  249  Applications/Desktop
+  250  ls
+  251  cd Applications
+  252  ls
+  253  source /Users/tgmyers/opt/anaconda3/bin/activate
+  254  conda activate base
+  255  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  256  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  257  conda activate dev
+  258  ls
+  259  cd Desktop
+  260  ls
+  261  cd 1\ copy
+  262  ls
+  263  cd Activities
+  264  ls
+  265  cd 02_Stu_Percent_Increase
+  266  ls
+  267  python percent_increase.py
+  268  ls
+  269  cd Unsolved
+  270  python percent_increase.py
+  271  python3 percent_increase.py
+  272  history
+  273  source /Users/tgmyers/opt/anaconda3/bin/activate
+  274  conda activate base
+  275  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py"
+  276  py -0
+  277  python --version
+  278  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py"
+  279  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py"
+  280  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py"
+  281  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py"
+  282  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  283  conda activate dev
+  284  cd
+  285  ls
+  286  cd Desktop
+  287  ls
+  288  cd 1\ copy/Activities/04_Stu_Manipulating_Lists/Unsolved
+  289  python manipulating_lists.py
+  290  python manipulating_lists.py
+  291  ..
+  292  python manipulating_lists.py
+  293  python manipulating_lists.py
+  294  python manipulating_lists.py
+  295  python manipulating_lists.py
+  296  python manipulating_lists.py
+  297  python manipulating_lists.py
+  298  python manipulating_lists.py
+  299  python manipulating_lists.py
+  300  python manipulating_lists.py
+  301  python manipulating_lists.py
+  302  python manipulating_lists.py
+  303  python manipulating_lists.py
+  304  python manipulating_lists.py
+  305  python manipulating_lists.py
+  306  python manipulating_lists.py
+  307  ..
+  308  cd ..
+  309  cd ..
+  310  cd 03_Ins_Lists
+  311  ls
+  312  cd Solved
+  313  ls
+  314  python lists.py
+  315  python lists.py
+  316  python lists.py
+  317  python lists.py
+  318  python lists.py
+  319  python lists.py
+  320  python lists.py
+  321  python lists.py
+  322  python lists.py
+  323  python lists.py
+  324  python lists.py
+  325  python lists.py
+  326  conda activate de
+  327  conda activate dev
+  328  ls
+  329  cd Downloads
+  330  ls
+  331  cd 03_The_401k_Shuffle
+  332  ls
+  333  python Solved
+  334  cd Solved
+  335  python the_401k_shuffle.py
+  336  source /Users/tgmyers/opt/anaconda3/bin/activate
+  337  conda activate base
+  338  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Practice.py
+  339  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Practice.py
+  340  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Practice.py
+  341  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Practice.py
+  342  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Practice.py
+  343  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Practice.py
+  344  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Practice.py
+  345  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Practice.py
+  346  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Practice.py
+  347  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Conditional_Statement/Unsolved/conditional_statement.py
+  348  source /Users/tgmyers/opt/anaconda3/bin/activate
+  349  conda activate base
+  350  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  351  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  352  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  353  source /Users/tgmyers/opt/anaconda3/bin/activate
+  354  conda activate base
+  355  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  356  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Solved/split_second_homebuying.py
+  357  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  358  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  359  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  360  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  361  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  362  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  363  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  364  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  365  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  366  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  367  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  368  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  369  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  370  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  371  conda activate dev
+  372  ls
+  373  cd Downloads/02_Nested_Conditionals/Unsolved
+  374  ls
+  375  python nested_conditionals.py
+  376  python nested_conditionals.py
+  377  python nested_conditionals.py
+  378  python nested_conditionals.py
+  379  ls
+  380  cd ..
+  381  cd ..
+  382  ls
+  383  ls 01_A_Definitive_Buy
+  384  cd Unsolved
+  385  cd 01_A_Definitive_Buy
+  386  cd Unsolved
+  387  python a_definitive_buy.py
+  388  history
+  389  source /Users/tgmyers/opt/anaconda3/bin/activate
+  390  conda activate base
+  391  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  392  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  393  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  394  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  395  source /Users/tgmyers/opt/anaconda3/bin/activate
+  396  conda activate base
+  397  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+  398  source /Users/tgmyers/opt/anaconda3/bin/activate
+  399  conda activate base
+  400  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/05_Ins_Dictionaries/Solved/dicts.py"
+  401  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/05_Ins_Dictionaries/Solved/dicts.py"
+  402  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/05_Ins_Dictionaries/Solved/dicts.py"
+  403  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/05_Ins_Dictionaries/Solved/dicts.py"
+  404  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/05_Ins_Dictionaries/Solved/dicts.py"
+  405  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/05_Ins_Dictionaries/Solved/dicts.py"
+  406  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/05_Ins_Dictionaries/Solved/dicts.py"
+  407  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/05_Ins_Dictionaries/Solved/dicts.py"
+  408  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/05_Ins_Dictionaries/Solved/dicts.py"
+  409  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/05_Ins_Dictionaries/Solved/dicts.py"
+  410  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/1 copy/Activities/05_Ins_Dictionaries/Solved/dicts.py"
+  411  /Users/tgmyers/opt/anaconda3/bin/python
+  412  source /Users/tgmyers/opt/anaconda3/bin/activate
+  413  conda activate base
+  414  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  415  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  416  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  417  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  418  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  419  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  420  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  421  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  422  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  423  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  424  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  425  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  426  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  427  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  428  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  429  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  430  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  431  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  432  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  433  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  434  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  435  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  436  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  437  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  438  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  439  source /Users/tgmyers/opt/anaconda3/bin/activate
+  440  conda activate base
+  441  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  442  source /Users/tgmyers/opt/anaconda3/bin/activate
+  443  conda activate base
+  444  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/2/Activities/06_Ins_Functions/Solved/functions.py
+  445  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/2/Activities/06_Ins_Functions/Solved/functions.py
+  446  conda activate dev
+  447  ls
+  448  cd
+  449  Designer.app
+  450  cd Desktop
+  451  ls
+  452  cd ..
+  453  ls
+  454  cd Downl
+  455  cd Downloads
+  456  ls
+  457  1
+  458  cd 1
+  459  ls
+  460  ls
+  461  cd Activities
+  462  ls
+  463  cd 05_Ins_Dictionaries
+  464  ls
+  465  Sol
+  466  cd Solved
+  467  ls
+  468  python dicts.py
+  469  python dicts.py
+  470  cd ..
+  471  ls
+  472  cd Unsolved
+  473  python dicts.py
+  474  python dicts.py
+  475  cd ..
+  476  cd ..
+  477  ls
+  478  cd 06_Stu_Working_with_Dictionaries
+  479  ls
+  480  cd Unsolved
+  481  python  dictionaries.py
+  482  python dictionaries.py
+  483  ls
+  484  python dictionaries.py
+  485  python dictionaries.py
+  486  ls
+  487  cd ..
+  488  cd ..
+  489  ls
+  490  cd 05_Ins_Dictionaries/Unsolved
+  491  ls
+  492  python dicts.py
+  493  ls
+  494  cd ..
+  495  cd ..
+  496  cd ..
+  497  cd ..
+  498  ls
+  499  cd 2
+  500  ls
+  501  cd Activities
+  502  ls
+  503  cd 05_Stu_Conditionals
+  504  ls
+  505  cd Unsolved
+  506  ls
+  507  python conditionals.py
+  508  source /Users/tgmyers/opt/anaconda3/bin/activate
+  509  conda activate base
+  510  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/def convert_usd_to_btc(usd_amount):.py"
+  511  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/def convert_usd_to_btc(usd_amount):.py"
+  512  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/def convert_usd_to_btc(usd_amount):.py"
+  513  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/def convert_usd_to_btc(usd_amount):.py"
+  514  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/def convert_usd_to_btc(usd_amount):.py"
+  515  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/def convert_usd_to_btc(usd_amount):.py"
+  516  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/def convert_usd_to_btc(usd_amount):.py"
+  517  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/def convert_usd_to_btc(usd_amount):.py"
+  518  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  519  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  520  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  521  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  522  .ssh/
+  523  cd ..
+  524  cd .. 
+  525  cd ..
+  526  ls
+  527  ls tgmyers
+  528  .ssh/
+  529  cd $HOME.ssh/
+  530  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  531  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  532  conda activate dev
+  533  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  534  conda activate dev
+  535  git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  536  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  537  $HOME
+  538  .ssh/
+  539  $HOME
+  540  ssh-keygen -t
+  541  cd ..
+  542  cd ..
+  543  ssh-keygen -t rsa -b 2048 -C
+  544  ssh-keygen -t rsa -b 2048 -C "<comment>"\n
+  545  new_file
+  546  ssh-keygen -t rsa -b 2048 -C "<comment>"\n
+  547  tr -d '\n' < ~/.ssh/id_ed25519.pub | pbcopy\n
+  548  .ssh/
+  549  $HOME
+  550  $HOME
+  551  ls
+  552  cd new_file.pud
+  553  cd new_file.pub
+  554  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  555  conda activate dev
+  556  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  557  conda activate dev
+  558  ls
+  559  ls
+  560  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  561  conda activate dev
+  562  $HOME
+  563  conda deactivate
+  564  $HOME
+  565  conda activate dev
+  566  ssh-keygen -t rsa
+  567  ssh-keygen -t rsa
+  568  ls
+  569  cd ls.pub
+  570  tr -d '\n' < ~/.ssh/ls_rsa.pub | pubcopy
+  571  tr -d '\n' < ~/.ssh/id_ls.pub | pbcopy
+  572  tr -d '\n' < ~/.ssh/ls.pub | pbcopy
+  573  tr -d '\n' < ~/.ssh/ls | pubcopy
+  574  tr -d '\n' < ~/.ssh/ls | pbcopy
+  575  pbcopy < ~/.ssh/new_file.pub
+  576  ls
+  577  ls
+  578  pbcopy < ~/.ssh/new_file.pub
+  579  conda activate dev
+  580  ls
+  581  pbcopy < ~/.ssh/new_file.pub
+  582  conda activate dev
+  583  ls
+  584  pbcopy < ~/new_file.pub
+  585  source /Users/tgmyers/opt/anaconda3/bin/activate
+  586  conda activate base
+  587   /usr/bin/env /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 60518 -- "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py" 
+  588  source /Users/tgmyers/opt/anaconda3/bin/activate
+  589  conda activate base
+  590  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py"
+  591  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py"
+  592  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py"
+  593  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  594  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  595  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  596  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  597  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  598  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  599  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  600  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  601  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  602  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  603  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  604  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py"
+  605  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  606  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  607  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  608  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  609  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  610  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  611  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  612  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  613  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  614  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  615  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  616  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py"
+  617  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/inventory = {.py"
+  618  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/inventory = {.py"
+  619  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/inventory = {.py"
+  620  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/inventory = {.py"
+  621  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/justsomework.py"
+  622  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/justsomework.py"
+  623  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Desktop/Class 9:28/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/justsomework.py"
+  624  source /Users/tgmyers/opt/anaconda3/bin/activate
+  625  conda activate base
+  626  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/import fire.py"
+  627  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/import fire.py"
+  628  /Users/tgmyers/opt/anaconda3/bin/python "/Users/tgmyers/Downloads/import fire.py"
+  629  pwd
+  630  ls
+  631  pip install fire
+  632  import fire
+  633  conda activate dev
+  634  pip install fire
+  635  cd
+  636  ls
+  637  python cli.py
+  638  ls
+  639  cd Downloads
+  640  ls
+  641  cd import\ fire.py
+  642  python import\ fire.py
+  643  python python import\ fire.py
+  644  python import\ fire.py
+  645  python cli.py --pants=True\n
+  646  python import\ fire.py --pants=True
+  647  python import\ fire.py
+  648  python import\ fire.py
+  649  python import\ fire.py --pants=True
+  650  python import\ fire.py --pants=True
+  651  python import\ fire.py --pants=True
+  652  pip install questionary
+  653  deactivate conda
+  654  conda deactivate
+  655  import questionary
+  656  pip install questionary
+  657  git config --global user.name Tyler Myers
+  658  git config --global user.email <your GitHub email tylergusmyers@gmail.com
+  659  git config --global user.email tylergusmyers@gmail.com
+  660  git config --list
+  661  source /Users/tgmyers/opt/anaconda3/bin/activate
+  662  conda activate base
+  663  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  664  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  665  conda activate dev
+  666  ls
+  667  cd Desktop
+  668  ls
+  669  cd loan_analyzer.py
+  670  python loan_analyzer.py
+  671  python loan_analyzer.py
+  672  python loan_analyzer.py
+  673  python loan_analyzer.py
+  674  python loan_analyzer.py
+  675  python loan_analyzer.py
+  676  python loan_analyzer.py
+  677  pytho python loan_analyzer.py
+  678  python loan_analyzer.py
+  679  python loan_analyzer.py
+  680  python loan_analyzer.py
+  681  python loan_analyzer.py
+  682  python loan_analyzer.py
+  683  ls
+  684  cd Desktop
+  685  ls
+  686  python loan_analyzer.py
+  687  python loan_analyzer.py
+  688  python loan_analyzer.py
+  689  python loan_analyzer.py
+  690  python loan_analyzer.py 
+  691  python loan_analyzer.py
+  692  python loan_analyzer.py
+  693  git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  694  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  695  source /Users/tgmyers/opt/anaconda3/bin/activate
+  696  conda activate base
+  697  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/Starter_Code/loan_analyzer.py
+  698  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/Starter_Code/loan_analyzer.py
+  699  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/Starter_Code/loan_analyzer.py
+  700  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/Starter_Code/loan_analyzer.py
+  701  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/Starter_Code/loan_analyzer.py
+  702  /Users/tgmyers/opt/anaconda3/bin/python
+  703  ls
+  704  cd Desktop
+  705  ls
+  706  python loan_analyzer.py
+  707  ls
+  708  python loan_analyzer.py
+  709  python loan_analyzer.py
+  710  python loan_analyzer.py
+  711  python loan_analyzer.py
+  712  python loan_analyzer.py
+  713  python loan_analyzer.py
+  714  history 50 > terminal_history.txt
+  715  history 50 > terminal_history.txt\n
+  716  source /Users/tgmyers/opt/anaconda3/bin/activate
+  717  conda activate base
+  718   /usr/bin/env /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/.vscode/extensions/ms-python.python-2021.9.1246542782/pythonFiles/lib/python/debugpy/launcher 50833 -- /Users/tgmyers/10:2prac 
+  719  ls
+  720  cd Desktop
+  721  ls
+  722  python practice_10:2
+  723  python practice_10:2
+  724  python practice_10:2
+  725  python practice_10:2
+  726  python practice_10:2
+  727  python prac
+  728  python practice_10:2
+  729  python practice_10:2
+  730  ..
+  731  cd..
+  732  cd ..
+  733  ls
+  734  python 10:2prac
+  735  python 10:2prac
+  736  python practice_10:2
+  737  python 10:2prac
+  738  python 10
+  739  python 10:2prac
+  740  python 10:2prac
+  741  cd
+  742  ls
+  743  conda activate dev
+  744  ls
+  745  cd Downloads
+  746  ls
+  747  cd 01_Importing_the_VIX
+  748  jupyter lab
+  749  conda activate dev
+  750  cd Downloads
+  751  ls
+  752  cd 03_IPO_Excitement
+  753  jupyter lab
+  754  ls
+  755  cd Downloads
+  756  ls
+  757  02_Hea
+  758  cd 02_Headerless_Horsemen
+  759  jupyter lab
+  760  source /Users/tgmyers/opt/anaconda3/bin/activate
+  761  conda activate base
+  762  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/new.py
+  763  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Desktop/new.py
+  764  ls
+  765  cd Downloads
+  766  ls
+  767  cd 03_IPO_Excitement
+  768  jupyter lab
+  769  conda activate dex
+  770  conda activate dev
+  771  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  772  ls
+  773  cd Desktop
+  774  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  775  ls
+  776  cd new_file.pub
+  777  ls.pub
+  778  cd ls.pub
+  779  cd Downloads
+  780  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  781  ls
+  782  cd Dowl
+  783  cd Downloads
+  784  ls
+  785  cd ucb-virt-fin-pt-09-2021-u-b
+  786  ls
+  787  cd Live-Lesson-Activities
+  788  ls
+  789  jupyter lab
+  790  ls
+  791  conda activate dev
+  792  ls
+  793  cd Downloads
+  794  ls
+  795  cd ucb-virt-fin-pt-09-2021-u-b
+  796  jupyter lab
+  797  source /Users/tgmyers/opt/anaconda3/bin/activate
+  798  conda activate base
+  799  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/Starter_Code/loan_qualifier_app/-range(10).py
+  800  /Users/tgmyers/opt/anaconda3/bin/python /Users/tgmyers/Downloads/Starter_Code/loan_qualifier_app/-range(10).py
+  801  ls
+  802  cd Downloads
+  803  ls
+  804  cd Starter_Code 2
+  805  cd Starter_Code
+  806  python app.py
+  807  ls
+  808  python loan_qualifier_app
+  809  ls
+  810  cd loan_qualifier_app
+  811  ls
+  812  python app.py
+  813  ls
+  814  python app.py
+  815  history 50 > terminal.txt
+  816  ls
+  817  cd Downloads
+  818  ls
+  819  cd SC2
+  820  ls
+  821  cd loan_qualifier_app
+  822  ls
+  823  python app.py
+  824  python app.py
+  825  python app.py
+  826  python app.py
+  827  pythonpython app.py
+  828  python app.py
+  829  python app.py
+  830  python app
+  831  python app.py
+  832  python app.py
+  833  python app.py
+  834  history 50 > terminal_history.txt
+  835  ls
+  836  cd Downloads
+  837  ls
+  838  cd SC2
+  839  ls
+  840  cd loan_qualifier_app
+  841  ls
+  842  python app.py
+  843  histroy 50 > terminal_history.txt
