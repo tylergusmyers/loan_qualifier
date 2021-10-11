@@ -116,6 +116,13 @@ def save_csv(qualifying_loans):
         for row in qualifying_loans:
            csvwriter.writerow(row.values())
 
+def save_qualifying_loans(qualifying_loans):
+
+    create_file = questionary.text("Would you like to save this list as a new CSV file?").confirm.ask()
+    if True:
+        save_csv(qualifying_loans)
+
+    return create_file
 
 def run():
     """The main function for running the script."""
@@ -132,7 +139,7 @@ def run():
     )
 
     # Save qualifying loans
-    save_csv(qualifying_loans)
+    save_qualifying_loans(qualifying_loans)
 
 
 if __name__ == "__main__":
